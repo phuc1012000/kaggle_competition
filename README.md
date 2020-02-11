@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Updated Day:
 # ignore file to reuduce push requirements
 .gitignore ignore folders:
@@ -43,3 +44,6 @@ requirements.ipynb : store excact client requirements
 =======
 # stardard_work
 >>>>>>> 992f5574505d469febbffd8c45fd626291ccd709
+=======
+# kaggle_competition
+>>>>>>> eef74f0b3b61467062159d3efb9cc9abe62e2c52
